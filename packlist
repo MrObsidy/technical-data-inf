@@ -4,6 +4,6 @@ name = ufsos
         repository = UFSOS
     category = os
     dependencies = lyqyd/packman lyqyd/netshell
-    target = /startup
+    target = /
     version = 0.1
 end
