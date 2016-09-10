@@ -2,6 +2,7 @@ name = ufsos
     type = github
         author = MrObsidy
         repository = UFSOS
+        branch = master
     category = os
     dependencies = lyqyd/packman lyqyd/netshell
     target = /
