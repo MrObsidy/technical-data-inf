@@ -1,10 +1,10 @@
-name = ufsos
+name = logparser
     type = github
         author = MrObsidy
-        repository = UFSOS
+        repository = CC-LogParserAPI
         branch = master
-    category = os
-    dependencies = lyqyd/packman lyqyd/netshell
-    target = /
-    version = 0.1
+    category = api
+    dependencies = none
+    target = /logparser/
+    version = 1.0.0.0
 end
