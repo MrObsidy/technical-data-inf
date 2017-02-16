@@ -8,3 +8,14 @@ name = logparser
     target = /logparser/
     version = 1.0.0.0
 end
+
+name = objecto
+    type = github
+        author = MrObsidy
+        repository = CC-Objecto
+        branch = master
+    category = api
+    dependencies = none
+    target = /nct/core/coreapi/objecto
+    version = 1.0.0.0
+end
