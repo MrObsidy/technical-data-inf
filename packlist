@@ -4,8 +4,19 @@ name = glucose
             repository = CC-Glucose
             branch = master
     category = api
-    dependencies = none
+    dependencies = mrobsidy/bilirubin
     target = /lib/glucose
     version = 1.1.0.0
     size = 8678
+end
+
+name = bilirubin
+    type = github
+        author = mrobsidy
+        repository = CC-Bilirubin
+        branch = master
+    category = api
+    target = /lib/bilirubin
+    version = 1.0.0.0
+    size = 0
 end
