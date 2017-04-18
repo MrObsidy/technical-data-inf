@@ -24,7 +24,7 @@ end
 name = glucose
     type = raw
             url = https://raw.githubusercontent.com/MrObsidy/CC-Glucose/master/glucose
-            name = glucose
+            filename = glucose
     category = api
     dependencies = MrObsidy/CC-Bilirubin
     target = /lib/glucose
