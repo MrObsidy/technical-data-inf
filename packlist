@@ -22,10 +22,9 @@ end
 
 
 name = glucose
-    type = github
-        author = MrObsidy
-        repository = CC-Glucose
-        branch = master
+    type = raw
+            url = https://raw.githubusercontent.com/MrObsidy/CC-Glucose/master/glucose
+            name = glucose
     category = api
     dependencies = MrObsidy/CC-Bilirubin
     target = /lib/glucose
