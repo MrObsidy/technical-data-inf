@@ -1,7 +1,8 @@
 name = glucose
-    type = raw
-            url = https://raw.githubusercontent.com/MrObsidy/CC-Glucose/master/glucose
-            filename = glucose
+    type = github
+            author = mrobsidy
+            repository = CC-Glucose
+            branch = master
     category = api
     dependencies = none
     target = /lib/glucose
