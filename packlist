@@ -3,7 +3,7 @@ name = glucose
             url = https://raw.githubusercontent.com/MrObsidy/CC-Glucose/master/glucose
             filename = glucose
     category = api
-    dependencies = MrObsidy/CC-Bilirubin
+    dependencies = none
     target = /lib/glucose
     version = 1.1.0.0
 end
