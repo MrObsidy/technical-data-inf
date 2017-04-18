@@ -27,7 +27,7 @@ name = glucose
         repository = CC-Glucose
         branch = master
     category = api
-    dependencies = none
+    dependencies = MrObsidy/CC-Bilirubin
     target = /lib/glucose
     version = 1.1.0.0
 end
