@@ -1,0 +1,10 @@
+{
+  "homepage": "<homepage/download page for your mod>",
+  "1.12.2": {
+    "https://minecraft.curseforge.com/projects/rockycore", 
+  },
+  "promos": {
+    "1.12.2-latest": "0.0.2",
+    "1.12.2-recommended": "0.0.1",
+  }
+}
