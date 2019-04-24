@@ -1,6 +1,6 @@
 {
   ["packages"] = {
-    ["testpkg"] = "http://doesnotexistyet",
+    ["testpkg"] = "http://doesnotexist.yet",
     ["anotherpackage"] = "http://someurl.com",
   },
 }
