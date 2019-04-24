@@ -1,0 +1,14 @@
+{
+  ["name"] = "testpkg",
+  ["version"] = "0.4.3",
+  ["description"] = "A small test package that installs two files to the hard disk.",
+  ["dependencies"] = {
+  
+  },
+  ["files"] = {
+  
+  },
+  ["requiredPlugins"] = {
+  
+  },
+}
