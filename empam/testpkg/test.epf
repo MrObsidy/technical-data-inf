@@ -6,7 +6,11 @@
   
   },
   ["files"] = {
-  
+    [1] = {
+      ["name"] = "helloLua",
+      ["url"] = "https://raw.githubusercontent.com/MrObsidy/technical-data-inf/master/empam/testpkg/hello.lua",
+      ["target"] = "/home/hello.lua",
+    }
   },
   ["requiredPlugins"] = {
   
