@@ -1,0 +1,5 @@
+{
+  ["packages"] = {
+    ["testpkg"] = "http://someother.url",
+  },
+}
