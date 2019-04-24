@@ -1,7 +1,7 @@
 name = glucose
     type = raw
         url = https://raw.githubusercontent.com/MrObsidy/CC-Glucose/master/glucose
-        file = glucose
+        filename = glucose
     category = api
     target = /lib/glucose
     version = 1.1.0.0
