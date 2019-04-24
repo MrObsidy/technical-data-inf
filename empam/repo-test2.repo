@@ -1,5 +1,5 @@
 {
   ["packages"] = {
-    ["testpkg"] = "http://someother.url",
+    ["testpkg"] = "https://raw.githubusercontent.com/MrObsidy/technical-data-inf/master/empam/testpkg/test.epf",
   },
 }
