@@ -1,2 +1,3 @@
-#Technical-Data-Inf
-Is a repository solely to hold Meta information. For example, my "packlist."
+#technical-data-inf
+
+This repository hold all of my technical data, like my packman packlist, my EMPaM repositories and so on.
