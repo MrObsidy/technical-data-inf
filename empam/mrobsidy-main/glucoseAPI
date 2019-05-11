@@ -1,0 +1,17 @@
+{
+  ["name"] = "glucose",
+  ["version"] = "1.0.0",
+  ["description"] = "Glucose static graphics",
+  ["dependencies"] = {
+  
+  },
+  ["files"] = {
+    [1] = {
+      ["name"] = glucose",
+      ["url"] = "https://raw.githubusercontent.com/MrObsidy/CC-Glucose/master/glucose",
+      ["target"] = "/lib/glucose/glucose",
+    },
+  },
+  ["requiredPlugins"] = {
+  },
+}
