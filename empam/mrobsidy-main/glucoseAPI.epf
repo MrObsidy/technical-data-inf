@@ -7,7 +7,7 @@
   },
   ["files"] = {
     [1] = {
-      ["name"] = glucose",
+      ["name"] = "glucose",
       ["url"] = "https://raw.githubusercontent.com/MrObsidy/CC-Glucose/master/glucose",
       ["target"] = "/lib/glucose/glucose",
     },
