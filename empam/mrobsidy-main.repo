@@ -1,5 +1,5 @@
 {
   ["packages"] = {
-    ["glucose"] = "https://raw.githubusercontent.com/MrObsidy/technical-data-inf/master/empam/mrobsidy-main/glucoseAPI",
+    ["glucose"] = "https://raw.githubusercontent.com/MrObsidy/technical-data-inf/master/empam/mrobsidy-main/glucoseAPI.epf",
   },
 }
