@@ -1,0 +1,17 @@
+{
+  ["name"] = "mounter",
+  ["version"] = "1.0.0",
+  ["description"] = "Mounter - a mounting library",
+  ["dependencies"] = {
+  
+  },
+  ["files"] = {
+    [1] = {
+      ["name"] = "mounter",
+      ["url"] = "https://raw.githubusercontent.com/MrObsidy/CC-PBL/master/pbl/mounter",
+      ["target"] = "/lib/mounter",
+    },
+  },
+  ["requiredPlugins"] = {
+  },
+}
