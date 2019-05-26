@@ -1,6 +1,6 @@
 {
   ["packages"] = {
     ["glucose"] = "https://raw.githubusercontent.com/MrObsidy/technical-data-inf/master/empam/mrobsidy-main/glucoseAPI.epf",
-    ["mounter"] = "https://raw.githubusercontent.com/MrObsidy/technical-data-inf/master/empam/mrobsidy-main/mounter.epf",
+    ["mounter"] = "https://raw.githubusercontent.com/MrObsidy/technical-data-inf/master/empam/mrobsidy-main/mounterAPI.epf",
   },
 }
